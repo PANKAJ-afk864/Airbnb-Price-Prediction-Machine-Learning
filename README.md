@@ -62,3 +62,8 @@ The dataset used is: **AB_NYC_2019.csv**
 ```bash
 git clone https://github.com/PANKAJ-afk864/Airbnb-Price-Prediction-Machine-Learning.git
 cd airbnb-price-prediction
+
+## You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8506
+  Network URL: http://192.168.0.105:8506
